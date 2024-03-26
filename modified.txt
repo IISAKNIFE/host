@@ -1,3 +1,5 @@
+o401343.ingest.sentry.io
+ingest.sentry.io
 www.parallels.cn
 www.parallels.com
 reportus.parallels.com
